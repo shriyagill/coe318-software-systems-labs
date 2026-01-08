@@ -1,4 +1,4 @@
-# COE318 ? Software Systems Labs
+# COE318 Software Systems Labs
 
 This repository contains Java programming labs completed as part of COE318 (Software Systems)
 in the Computer Engineering program at Toronto Metropolitan University.
